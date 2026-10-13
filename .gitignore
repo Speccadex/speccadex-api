@@ -22,3 +22,13 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
+# Other env variants
+.env.*
+!.env.example
+
+# OS junk and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,4 +1,4 @@
-# Speccadex – API
+# Speccadex – Backend
 
 A Speccadex közös backendje, amelyet a webes, az asztali és a mobil alkalmazás is használ.
 
